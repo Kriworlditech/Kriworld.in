@@ -1,0 +1,323 @@
+.contact-clean {
+  background:#f1f7fc;
+  padding:80px 0;
+}
+
+@media (max-width:767px) {
+  .contact-clean {
+    padding:20px 0;
+  }
+}
+
+.contact-clean form {
+  max-width:480px;
+  width:90%;
+  margin:0 auto;
+  background-color:#ffffff;
+  padding:40px;
+  border-radius:4px;
+  color:#505e6c;
+  box-shadow:1px 1px 5px rgba(0,0,0,0.1);
+}
+
+@media (max-width:767px) {
+  .contact-clean form {
+    padding:30px;
+  }
+}
+
+.contact-clean h2 {
+  margin-top:5px;
+  font-weight:bold;
+  font-size:28px;
+  margin-bottom:36px;
+  color:inherit;
+}
+
+.contact-clean .form-group:last-child {
+  margin-bottom:5px;
+}
+
+.contact-clean form .form-control {
+  background:#fff;
+  border:1px solid #d4d4d4;
+  border-radius:2px;
+  box-shadow:1px 1px 1px rgba(0,0,0,0.05);
+  outline:none;
+  color:inherit;
+  padding-left:12px;
+  height:42px;
+}
+
+.contact-clean form .form-control:focus {
+  border:1px solid #b2b2b2;
+}
+
+.contact-clean form textarea.form-control {
+  min-height:100px;
+  max-height:260px;
+  padding-top:10px;
+  resize:vertical;
+}
+
+.contact-clean form .form-control-feedback {
+  height:42px;
+  line-height:42px;
+}
+
+.contact-clean form .help-block {
+  margin-top:8px;
+  font-size:13px;
+}
+
+.contact-clean form .btn {
+  padding:16px 32px;
+  border:none;
+  background:none;
+  box-shadow:none;
+  text-shadow:none;
+  opacity:0.9;
+  text-transform:uppercase;
+  font-weight:bold;
+  font-size:13px;
+  letter-spacing:0.4px;
+  line-height:1;
+  outline:none !important;
+}
+
+.contact-clean form .btn:hover {
+  opacity:1;
+}
+
+.contact-clean form .btn:active {
+  transform:translateY(1px);
+}
+
+.contact-clean form .btn-primary {
+  background-color:#055ada !important;
+  margin-top:15px;
+  color:#fff;
+}
+
+#col-form {
+  font-family:'Raleway';
+  font-size:19px;
+  font-weight:600;
+}
+
+#div-in-touch {
+  background:rgba(242,242,242,0.44);
+}
+
+#text-input {
+  border-color:rgb(187,185,185);
+}
+
+#email-input {
+  border-color:rgb(187,185,185);
+}
+
+#textarea-input {
+  border-color:rgb(208,206,206);
+}
+
+#btn-send-form {
+  padding:15px 45px 15px 45px;
+  color:white;
+  background: #076fb8;
+  font-size:16px;
+  font-weight:600;
+  display:inline-block;
+  border-radius:0px;
+}
+
+#p-location {
+  font-weight:normal;
+}
+
+#kri-logo-text {
+  font-size:16px;
+  line-height:1.5;
+  font-family:'Raleway';
+  font-weight:normal;
+}
+
+#copy-text {
+  color:grey;
+}
+
+@media (max-width: 991px) {
+  #img-start {
+    display:none;
+  }
+}
+
+#get-in-touch {
+  font-family:'Raleway';
+  font-weight:600;
+  font-size:45px;
+}
+
+@media (max-width: 786px) {
+  #myVideo {
+    margin:40px 0px 35px !important;
+  }
+}
+
+#myVideo {
+  min-width:100%;
+  min-height:100%;
+  z-index:999;
+  text-align:center;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  max-height:700px;
+  max-width:100%;
+  margin:90px 0px 35px 65px;
+  border:0.5px solid black;
+  box-shadow:0 0 20px rgba(0,0,0,0.8);
+}
+
+#img-host {
+  max-height:100%;
+  max-width:100%;
+}
+
+#plan-2 {
+  min-height:715px;
+}
+
+#plan-1 {
+  min-height:715px;
+}
+
+.para-mar {
+  margin-top:78px;
+}
+
+#icon-app {
+  padding:15px;
+}
+
+#app-title2 {
+  background:url(../../assets/img/apple-label.png) no-repeat;
+  z-index:999;
+  background-position:top right;
+}
+
+#app-title3 {
+  background:url(../../assets/img/custom-app-label.png) no-repeat;
+  z-index:999;
+  background-position:top right;
+}
+
+#app-title1 {
+  background:url(../../assets/img/android-label.png) no-repeat;
+  z-index:999;
+  background-position:right;
+}
+
+.img-app {
+  padding:5px;
+}
+
+#srch-img {
+  max-width:100%;
+  max-height:100%;
+}
+
+#banner-icon {
+  padding:10px;
+}
+
+#banner-icon: hover {
+  content:"hello";
+}
+
+#img-side-con {
+  max-height:100%;
+  max-width:100%;
+}
+
+#text-keyword {
+  font-size:25px;
+}
+
+img-banner-icon {
+}
+
+@media (max-width: 1199px) {
+  #man-torch {
+    display:none;
+  }
+}
+
+#col-banner-icon {
+  text-align:center;
+}
+
+#div-opp {
+  background:rgb(238,237,235);
+}
+
+#img-frn {
+  max-width:100%;
+  height:50px;
+}
+
+#p-invest {
+  font-size:19px;
+  font-family:'Raleway';
+  font-weight:600;
+}
+
+#list-invest {
+  font-size:17px;
+}
+
+#img-frn-become {
+  max-height:100%;
+  width:485px;
+  max-width:100%;
+}
+
+.list-initial {
+  padding:10px;
+}
+
+#list-role {
+  font-size:18px;
+}
+
+#p-role {
+  font-size:19px;
+  font-family:'Raleway';
+  font-weight:600;
+}
+
+#tab-design {
+  background:#FAFAD2;
+  font-weight:900;
+  border-color:rgb(250,250,210);
+}
+
+#tab-design li a {
+  color:black;
+  font-weight:900;
+}
+
+#tab-design li {
+  font-weight:900;
+}
+
+#div-tab {
+  background:rgb(231,240,246);
+}
+
+.display-col {
+  padding:5px;
+  margin:10px 0px 10px 0px;
+}
+
